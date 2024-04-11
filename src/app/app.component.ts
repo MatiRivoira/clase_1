@@ -28,4 +28,3 @@ export class Usuario {
   protected nombre:string = "";
   protected clave:string = "";
 }
-
